@@ -4,9 +4,6 @@ A Data Science graduate student based in the Netherlands 🇳🇱
 🔭 I’m currently working on data engineering, analytics, and machine learning projects  
 🌱 I’m currently learning advanced ML, cloud data pipelines, and MLOps  
 💬 Ask me about Python, SQL, Power BI, ETL pipelines, and applied machine learning  
-📫 How to reach me: derejedaniel38@gmail.com  
-📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/dereje-daniel-m-875647166/)  
-
 ---
 
 ### 🌐 Connect with me
