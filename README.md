@@ -3,7 +3,8 @@ A Data Science graduate student based in the Netherlands 🇳🇱
 
 🔭 I’m currently working on data engineering, analytics, and machine learning projects  
 🌱 I’m currently learning advanced ML, cloud data pipelines, and MLOps  
-💬 Ask me about Python, SQL, Power BI, ETL pipelines, and applied machine learning  
+💬 Ask me about Python, SQL, Power BI, ETL pipelines, and applied machine learning
+
 ---
 
 ### 🌐 Connect with me
