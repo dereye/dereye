@@ -61,7 +61,3 @@ A Data Science graduate student based in the Netherlands 🇳🇱
   </a>
 </p>
 
----
-
-### ⚡ Fun Fact
-I love working with messy data — that’s where the real insights live.
